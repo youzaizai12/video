@@ -220,5 +220,7 @@ API费用：调用视觉大模型API会产生费用，请合理设置调用频�
 AI模型：LangChain + SiliconFlow API
 
 # 实验结果
+<img width="1659" height="1058" alt="image" src="https://github.com/user-attachments/assets/b484654c-81e8-4b5b-8e2a-85a0179b893a" />
+
 <img width="2316" height="725" alt="image" src="https://github.com/user-attachments/assets/5667eab5-7dd8-41f9-a50d-697ea21b115d" />
 
