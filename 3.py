@@ -17,7 +17,7 @@ class VideoAIProcessor:
 
         # 视觉大模型配置
         self.vision_model = ChatOpenAI(
-            openai_api_key="sk-iygzhbgmrqdosjzxmyblekyqembpkvknubmefbtlqcckctyk",
+            openai_api_key="你的api",
             base_url="https://api.siliconflow.cn/v1",
             model="Qwen/Qwen3-VL-8B-Instruct",
             temperature=0.7,
